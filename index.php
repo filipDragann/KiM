@@ -1,11 +1,13 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Titlu111</title>
-</head>
-<body>
+<?php
+    $name = "Filip Dragan";
+    $food = "pizza";
+    $email = "email@email.com";
+
+    $age = 21;
+    $users = 2;
     
-</body>
-</html>
+
+    
+?>
+
+
